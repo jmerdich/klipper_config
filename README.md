@@ -11,3 +11,5 @@ Useful Links
  - [Someone else's config](https://github.com/Mithrandil/klipper-config-prusa-mk2s)
  - [MiniRambo Schematic](https://raw.githubusercontent.com/ultimachine/Mini-Rambo/1.3a/board/Project%20Outputs%20for%20Mini-Rambo/Mini-Rambo.PDF)
  - [Stepper driver datasheet](https://www.allegromicro.com/-/media/files/datasheets/a4982-datasheet.pdf)
+ - [LCD Board Info](https://reprap.org/wiki/RepRapDiscount_Smart_Controller)
+ - [LCD Controller Info](https://www.sparkfun.com/datasheets/LCD/HD44780.pdf)
